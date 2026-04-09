@@ -13,6 +13,18 @@ An intelligent chatbot built with **Streamlit** and **Google Gemini 2.5 Flash** 
 - Ends gracefully and saves candidate data to CSV
 
 ---
+---
+
+## 🌐 Live Service
+
+🚀 The TalentScout Hiring Assistant is now live and accessible.
+
+👉 Try it here: [Live Demo](https://chatbot-assistant-1-60ea.onrender.com)
+
+✨ You can interact with the chatbot directly, provide your details, and experience real-time AI-based screening.
+
+---
+
 
 ## Installation
 
