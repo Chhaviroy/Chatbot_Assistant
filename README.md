@@ -20,3 +20,29 @@ An intelligent chatbot built with **Streamlit** and **Google Gemini 2.5 Flash** 
    ```bash
    git clone https://github.com/yourusername/talentscout-chatbot.git
    cd talentscout-chatbot
+
+   
+---
+
+## 🎯 Use Case
+
+This chatbot can be used by:
+- Recruiters 👩‍💼  
+- Hiring platforms 💼  
+- College placement cells 🎓  
+- HR automation systems 🤖  
+
+---
+
+## 💡 Future Improvements
+
+- Resume parsing 📄  
+- AI-based candidate scoring 📊  
+- Integration with ATS systems  
+- Voice-based interaction 🎙️  
+
+---
+
+## 📬 Contact
+
+- GitHub: https://github.com/chhaviroy
