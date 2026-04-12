@@ -2,7 +2,7 @@
 
 An intelligent chatbot built with **Streamlit** and **Google Gemini 2.5 Flash** to assist in candidate screening for technology placements.
 
----
+--- 
 
 ## Features
 - Greets candidates and explains purpose
